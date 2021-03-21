@@ -10,8 +10,8 @@ in life through hard-work, dedication and commitment.
 
 - 🔭 I’m currently working with Java, Python , NodeJS, VueJs and ReactJS. 
 - 🌱 Growing to become a full-stack developer.
-- 👯 I’m looking to collaborate on Open solve projects
+- 👯 I’m looking to collaborate on open software projects
 - 💬 Ask me about Software Development.
-- ⚡ Fun fact: I get paid for been innovative.
+- ⚡ Fun fact: I love been innovative
 
 

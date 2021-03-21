@@ -1,5 +1,3 @@
-# Profile
-
 ### Hi there 👋 
 
 I'm a ✨Java enthusiast✨ with self motivation and natural passion

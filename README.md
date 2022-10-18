@@ -10,6 +10,6 @@ in life through hard-work, dedication and commitment.
 - 🌱 Growing to become a full-stack developer.
 - 👯 I’m looking to collaborate on open software projects
 - 💬 Ask me about Software Development.
-- ⚡ Fun fact: I love been innovative
+- ⚡ Fun fact: I love being innovative
 
 
